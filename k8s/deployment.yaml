@@ -54,7 +54,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: rodrigoaraujoti/rotten-potatoes:v1
+        image: rodrigoaraujoti/rotten-potatoes:v2
         ports:
         - containerPort: 5000
         env: 
